@@ -1,4 +1,4 @@
-dartforcepush
+dart force push example
 =============
 
 Example of dart force pushing random numbers to all his clients.
